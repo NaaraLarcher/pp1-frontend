@@ -24,7 +24,7 @@ function App() {
       <main className="card">
         <p>
           Este proyecto representa el <strong>frontend</strong> del sistema de gestión de ventas desarrollado con
-          <strong> React, HTML, CSS y JavaScript</strong>.
+          <strong> React, HTML, CSS y TypeScript</strong>.
         </p>
         <p>
           Ofrece una interfaz moderna, dinámica y responsiva que permite a los usuarios:
